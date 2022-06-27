@@ -1,0 +1,23 @@
+.conatiner {
+  width: 100%;
+  padding: 10px 15px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  ul {
+    display: flex;
+    align-items: center;
+    li {
+      display: block;
+      a {
+        display: block;
+        padding: 8px 20px;
+      }
+    }
+  }
+}
