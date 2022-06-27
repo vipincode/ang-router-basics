@@ -3,7 +3,6 @@
 ## CREATE ANGULAR PROJECT WITH LOCAL CLI
 
 npx -p @angular/cli ng new `<project-name>`
-npx @angular/cli@7 new Angular7Project
 
 https://medium.com/@starikovs/how-to-use-angular-cli-locally-729dbb6707dd
 
